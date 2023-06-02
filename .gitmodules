@@ -1,0 +1,3 @@
+[submodule "minimap_renderer"]
+	path = minimap_renderer
+	url = https://github.com/WoWs-Builder-Team/minimap_renderer.git

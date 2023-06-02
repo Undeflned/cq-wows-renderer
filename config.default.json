@@ -1,0 +1,14 @@
+{
+    "http_host": "http://localhost:5700",
+    "ws_host": "ws://localhost:6700",
+    "group_id_list": [],
+    "user_id_list": [],
+    "bot_options": {
+        "admin": []
+    },
+    "upload_timeout": 60,
+    "upload_sleep_time": 10,
+    "max_render_processes": 3,
+    "download_path": "./download",
+    "user_upload_timeout": 60
+}

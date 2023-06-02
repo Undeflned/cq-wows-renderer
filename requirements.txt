@@ -1,0 +1,2 @@
+-e git+https://github.com/WoWs-Builder-Team/minimap_renderer#egg=minimap_renderer
+pycqBot
