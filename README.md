@@ -8,7 +8,7 @@ A go-cqhttp bot generates minimap video from World of Warships replay file.
 2. Install Python 3.10
 3. Clone the repo
     ```
-    git clone —-recursive https://github.com/Undeflned/cq-wows-renderer.git & cd cq-wows-renderer
+    git clone https://github.com/Undeflned/cq-wows-renderer.git —-recursive && cd cq-wows-renderer
     ```
 4. Create & activate a python virtual environment(using python, conda, etc.)
 5. Install requirements
@@ -17,7 +17,7 @@ A go-cqhttp bot generates minimap video from World of Warships replay file.
     ```
 6. Copy & edit the config file
     ```
-    cp config.default.json config.json & vim config.json
+    cp config.default.json config.json && vim config.json
     ```
 
 ### Usage
